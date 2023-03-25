@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [click here](https://deeptanshv.github.io/QR_Code-FrontendMentor/)
+- Live Site URL: [click here]( https://deeptanshv.github.io/Pokemon/)
 
 ## My process
 -The very first step I took was to make a parent div and position it at the center of the page with the dimensions provided by Frontend Mentor.
