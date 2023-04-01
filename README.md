@@ -5,7 +5,7 @@
 - Live Site URL: [click here]( https://deeptanshv.github.io/Pokemon/)
 
 ## My process
--The very first step I took was to make a parent div and position it at the center of the page with the dimensions provided by Frontend Mentor.
+-The very first step I took was to make a parent div and position it at the center of the page with the dimensions.
 -Next the image and text divs were created and positioned using flexbox properties.
 -Adding of colors and fonts were done at the end by ensuring all the elements are positioned well.
 ### Built with
